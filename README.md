@@ -16,7 +16,7 @@ $ conda install --yes --file requirements.txt
 $ pip install -r requirements.txt
 ```
 ## Excutions
-For example, if you want to see the results of exercise 16. of homework 1, please go to ./homework1/codes and run the following command:
+For example, if you want to see the results of exercise 16. of homework 1, please go to `./homework1/codes` and run the following command:
 ```bash
 $ python3 16.py
 ```
